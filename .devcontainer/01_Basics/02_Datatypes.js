@@ -9,6 +9,24 @@
  let name = "Shahzaib"
  let age = 17
  let isLoggedIn = false
+
+
+
+ // number =>2 to power of 53
+ // bigint
+ // string => ""
+ // boolean => true/false
+ // null => standalone value
+ // undefined =>
+// alert("3 + 3")// we are using nodejs, not browser 
+
+ console.log(3 + 3) //code readability should be high
+
+ console.log("Shahzaib")
+
+ let name = "Shahzaib"
+ let age = 17
+ let isLoggedIn = false
  let state = null 
 
 
