@@ -1,4 +1,4 @@
-let score = "33abc"
+/* let score = "33abc"
 
 console.log(typeof score);
 console.log(typeof(score));
@@ -20,4 +20,23 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 let someNumber = 480
 let stringNumber =  String(someNumber)
 console.log(stringNumber);
-console.log(typeof stringNumber)
+console.log(typeof stringNumber) */
+
+// *********************Operations******************** //
+
+/*console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/2);
+console.log(2%2);*/
+
+// console.log("1" + 2);
+// console.log("1" + 2 +2);
+// console.log("1" + "2" );
+// console.log(1 + 2 + "2");
+
+
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);
