@@ -33,3 +33,33 @@ const myFunction = function(){
 
 
 console.log(typeof anotherId);
+
+
+// Memory
+//Types 
+// .)Stack
+// .)Heap
+
+let myYoutubename = "ShahzaibHassan"
+
+let anothername = myYoutubename
+anothername = "endofpubg"
+
+console.log(myYoutubename);
+console.log(anothername);
+
+
+let userOne ={
+    email: "shahzaib@gmail.com",
+    jazzcash: "03268681091"
+}
+
+let userTwo = userOne
+
+ userTwo.jazzcash = "Ali Haider"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
+
